@@ -1,0 +1,155 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correct_answer": "Paris"
+      },
+      {
+        "question": "How many planets are in the solar system?",
+        "options": ["7", "8", "9", "10"],
+        "correct_answer": "8"
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Van Gogh", "Picasso", "Da Vinci", "Rembrandt"],
+        "correct_answer": "Da Vinci"
+      },
+      {
+        "question": "What is the chemical element for the symbol O?",
+        "options": ["Gold", "Oxygen", "Carbon", "Iron"],
+        "correct_answer": "Oxygen"
+      },
+      {
+        "question": "Where are the Pyramids of Giza located?",
+        "options": ["Morocco", "Saudi Arabia", "Egypt", "Iraq"],
+        "correct_answer": "Egypt"
+      },
+      {
+        "question": "What is the fastest land animal in the world?",
+        "options": ["Cheetah", "Lion", "Gazelle", "Tiger"],
+        "correct_answer": "Cheetah"
+      },
+      {
+        "question": "What is the official currency of Japan?",
+        "options": ["Dollar", "Euro", "Yen", "Pound"],
+        "correct_answer": "Yen"
+      },
+      {
+        "question": "Who is the author of 'Les Misérables'?",
+        "options": ["Tolstoy", "Shakespeare", "Victor Hugo", "Naguib Mahfouz"],
+        "correct_answer": "Victor Hugo"
+      },
+      {
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Venus", "Mars", "Mercury", "Earth"],
+        "correct_answer": "Mercury"
+      },
+      {
+        "question": "Which organ is responsible for pumping blood in the body?",
+        "options": ["Lungs", "Liver", "Heart", "Stomach"],
+        "correct_answer": "Heart"
+      },
+      {
+        "question": "In what year did World War II end?",
+        "options": ["1939", "1945", "1950", "1961"],
+        "correct_answer": "1945"
+      },
+      {
+        "question": "What is the official language of Brazil?",
+        "options": ["Spanish", "English", "Portuguese", "French"],
+        "correct_answer": "Portuguese"
+      },
+      {
+        "question": "What is the name of the longest river in the world?",
+        "options": ["Nile", "Amazon", "Mississippi", "Danube"],
+        "correct_answer": "Nile"
+      },
+      {
+        "question": "Who discovered gravity?",
+        "options": ["Einstein", "Newton", "Galileo", "Tesla"],
+        "correct_answer": "Newton"
+      },
+      {
+        "question": "Which gas is responsible for the blue color of the sky?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Ozone"],
+        "correct_answer": "Nitrogen"
+      },
+      {
+        "question": "What is the most popular sport in Brazil?",
+        "options": ["Basketball", "Cricket", "Football", "Tennis"],
+        "correct_answer": "Football"
+      },
+      {
+        "question": "Who is the founder of Apple?",
+        "options": ["Bill Gates", "Steve Jobs", "Mark Zuckerberg", "Elon Musk"],
+        "correct_answer": "Steve Jobs"
+      },
+      {
+        "question": "How many bones does a human have at birth?",
+        "options": ["100", "206", "300", "450"],
+        "correct_answer": "300"
+      },
+      {
+        "question": "Who was the first human to orbit the Earth?",
+        "options": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "Alan Shepard"],
+        "correct_answer": "Yuri Gagarin"
+      },
+      {
+        "question": "What is the hardest natural material on Earth?",
+        "options": ["Iron", "Diamond", "Quartz", "Steel"],
+        "correct_answer": "Diamond"
+      },
+      {
+        "question": "Where is the Taj Mahal located?",
+        "options": ["China", "India", "Turkey", "Morocco"],
+        "correct_answer": "India"
+      },
+      {
+        "question": "What is the traditional clothing in Japan?",
+        "options": ["Sari", "Kimono", "Hakata", "Jalabiya"],
+        "correct_answer": "Kimono"
+      },
+      {
+        "question": "Which planet has the most moons?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "correct_answer": "Jupiter"
+      },
+      {
+        "question": "What is the result of 15 × 15?",
+        "options": ["150", "200", "225", "250"],
+        "correct_answer": "225"
+      },
+      {
+        "question": "Which country is famous for sushi?",
+        "options": ["China", "Korea", "Japan", "Thailand"],
+        "correct_answer": "Japan"
+      },
+      {
+        "question": "What does HTTP stand for?",
+        "options": ["Hypertext Transfer Protocol", "Hypertext Transfer Pictures", "Programming Language", "Operating System"],
+        "correct_answer": "Hypertext Transfer Protocol"
+      },
+      {
+        "question": "Who wrote the novel '1984'?",
+        "options": ["George Orwell", "Agatha Christie", "Ernest Hemingway", "Charles Dickens"],
+        "correct_answer": "George Orwell"
+      },
+      {
+        "question": "What is the capital of Argentina?",
+        "options": ["Rio de Janeiro", "Buenos Aires", "Lima", "Santiago"],
+        "correct_answer": "Buenos Aires"
+      },
+      {
+        "question": "In what year did the Berlin Wall fall?",
+        "options": ["1985", "1989", "1991", "1975"],
+        "correct_answer": "1989"
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Liver", "Heart", "Skin", "Brain"],
+        "correct_answer": "Skin"
+      }
+    ]
+  }
+  
